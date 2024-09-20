@@ -1,5 +1,5 @@
 
-class Student {
+export class Student {
 
     private id: number;
     private name: string;
